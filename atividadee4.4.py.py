@@ -16,3 +16,8 @@ if num1 == num2:
 
 else:
    print("Os números introduzidos são diferentes. ")
+
+
+#ALTERAÇÃO FEITA PARA CRIAR UMA PULL REQUEST
+
+#tESTE DE ALTERAÇÃO PULL REQUEST
